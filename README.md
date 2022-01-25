@@ -11,5 +11,5 @@ To contact the Expedia Open Data Team, please use the email OSM@expediagroup.com
 - Data Editor
   - Code repo  
 - Contributions
--   Hotel Mapping
--   Inclusion and Diversity Mapping
+  - Hotel Mapping
+  - Inclusion and Diversity Mapping
