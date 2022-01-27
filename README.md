@@ -12,4 +12,4 @@ To contact the Expedia Open Data Team: OSM@expediagroup.com
   - Data Editor - Unreleased
 - Contributions
   - Hotel Mapping Initiative - Contribute knowledge and expertise on one of Expedia's core products to ensure that travelers everywhere have open and easy access to hotel data. Focus areas include adding missing hotels and enhancing existing hotels with additional amenity details.
-  - Inclusion and Diversity Destianation Mapping
+  - Inclusion and Diversity Destination Mapping
