@@ -5,12 +5,11 @@ Blah Blah
 
 ## Contacts
 
-To contact the Expedia Open Data Team, please use the email OSM@expediagroup.com
+To contact the Expedia Open Data Team: OSM@expediagroup.com
 
 ## Projects
 - Tools
-  - Data Editor  
+  - Data Editor - Unreleased
 - Contributions
-  * Hotel Mapping
-  *   Initiative to contribute knowledge and expertise on one of our core products to ensure that travelers everywhere have open and easy access to hotel data. We will add missing hotels and enhance existing hotels with additional amenity details as part of this initiative 
+  - Hotel Mapping Initiative - Contribute knowledge and expertise on one of Expedia's core products to ensure that travelers everywhere have open and easy access to hotel data. Focus areas include adding missing hotels and enhancing existing hotels with additional amenity details.
   - Inclusion and Diversity Destianation Mapping
