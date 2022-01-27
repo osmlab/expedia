@@ -1,7 +1,7 @@
 # Expedia Open Data Projects
 
 ## Mission Statement
-Blah Blah
+Expedia is committed to improving and supporting the community-driven dataset of tourism-focused geographies and content
 
 ## Contacts
 
