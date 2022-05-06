@@ -1,11 +1,11 @@
-# Expedia Open Data Projects
+# Expedia Group Open Data Projects
 
 ## Mission Statement
-Expedia is committed to improving and supporting the community-driven dataset of tourism-focused geographies and content, making travel-relevant data easier to discover. 
+Expedia Group is committed to improving and supporting the community-driven dataset of tourism-focused geographies and content, making travel-relevant data easier to discover. 
 
 ## Contacts
 
-To contact the Expedia Open Data Team: OSM@expediagroup.com
+To contact the Expedia Group Open Data Team: OSM@expediagroup.com
 
 ## Projects
 - Tools
