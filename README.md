@@ -17,5 +17,16 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
   - [United States State Parks](https://github.com/osmlab/expedia/issues/4) - Using US State open data, add missing US State Parks to complete dataset in OSM.
   - [Hiking and Trailheads](https://github.com/osmlab/expedia/issues/5) - Add trailheads and parking lots for popular dayhike options in the United States, by state.
 
+### Past and current MapRoulette challenges
+
+Add missing names to Museums in Mexico.	https://maproulette.org/browse/challenges/27616 -	COMPLETED
+Fix deprecated/incorrect tags on tourism features	https://maproulette.org/browse/challenges/27862	-IN PROGRESS
+Review of Bus Stations in Turkey	https://maproulette.org/browse/challenges/27616	-	IN PROGRESS
+
+
 ## Data Team
 [OSM Usernames](https://github.com/osmlab/expedia/wiki/Data-Team)
+
+## Links
+[OSM Wiki: Expedia](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Expedia)
+[Organized Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines)
