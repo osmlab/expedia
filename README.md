@@ -28,5 +28,5 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
 [OSM Usernames](https://github.com/osmlab/expedia/wiki/Data-Team)
 
 ## Links
-[OSM Wiki: Expedia](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Expedia)
-[Organized Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines)
+- [OSM Wiki: Expedia](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Expedia)
+- [Organized Editing Guidelines](https://wiki.osmfoundation.org/wiki/Organised_Editing_Guidelines)
