@@ -16,6 +16,7 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
   - [Road and Path Improvements](https://github.com/osmlab/expedia/issues/3) - Continuous improvements to roads, sidewalks, paths, and routes to support navigation within and between locations.
   - [United States State Parks](https://github.com/osmlab/expedia/issues/4) - Using US State open data, add missing US State Parks to complete dataset in OSM.
   - [Hiking and Trailheads](https://github.com/osmlab/expedia/issues/5) - Add trailheads and parking lots for popular dayhike options in the United States, by state.
+  - [Contribution via MapRoulette challenges](https://github.com/osmlab/expedia/issues/7) - travel-relevant challenges anyone can contribute to. 
 
 ### Past and current MapRoulette challenges
 
