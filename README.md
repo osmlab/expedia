@@ -20,11 +20,11 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
 
 ### Past and current MapRoulette challenges
 
-- [Review of Bus Stations in Turkey](https://maproulette.org/browse/challenges/27616)	-	PAUSED, OPEN TO COMMUNITY
+
 - [Museums without a Website in the United Kingdom](https://maproulette.org/browse/challenges/28592) -  IN PROGRESS
 - [Fix deprecated/incorrect tags on historic=* features](https://maproulette.org/browse/challenges/27952) - IN PROGRESS
 - [Museums without a website in the USA](https://maproulette.org/browse/challenges/28471) - IN PROGRESS
-- [Review of Bus Stations in Turkey](https://maproulette.org/browse/challenges/27616)	-	PAUSED, OPEN TO COMMUNITY
+- [Review of Bus Stations in Turkey](https://maproulette.org/browse/challenges/27616)	-	OPEN
 - [Add missing names to Museums in Mexico.](https://maproulette.org/browse/challenges/27616) -	COMPLETED
 - [Fix deprecated/incorrect tags on tourism features](https://maproulette.org/browse/challenges/27862)	- COMPLETED
 
