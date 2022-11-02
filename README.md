@@ -24,6 +24,7 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
 - [Museums without a Website in the United Kingdom](https://maproulette.org/browse/challenges/28592) -  IN PROGRESS
 - [Museums without a website in the USA](https://maproulette.org/browse/challenges/28471) - IN PROGRESS
 - [Add Wikidata ID to Theme Parks](https://maproulette.org/browse/challenges/29776) - IN PROGRESS
+- [Add Wikidata ID to Stadiums](Add Wikidata IDs to Stadiums) - IN PROGRESS
 - [Add missing names to Museums in Mexico.](https://maproulette.org/browse/challenges/27616) -	COMPLETED
 
 
