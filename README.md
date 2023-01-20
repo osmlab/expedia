@@ -20,13 +20,13 @@ To contact the Expedia Group Open Data Team: OSM@expediagroup.com
 
 ### Past and current MapRoulette challenges
 
-
-- [Museums without a Website in the United Kingdom](https://maproulette.org/browse/challenges/28592) - COMPLETED
+- [Museums without a website in Canada](https://maproulette.org/browse/challenges/37403) - IN PROGRESS
 - [Museums without a website in the USA](https://maproulette.org/browse/challenges/28471) - IN PROGRESS
 - [Add Opening Hours to UK Museums](https://maproulette.org/browse/challenges/37308) - IN PROGRESS
 - [Add Existing Wikidata IDs to Stadiums](https://maproulette.org/browse/challenges/36396) - IN PROGRESS
 - [Add Wikidata ID to Theme Parks](https://maproulette.org/browse/challenges/29804) - IN PROGRESS
 - [Add missing names to Museums in Mexico.](https://maproulette.org/browse/challenges/27616) -	COMPLETED
+- [Museums without a Website in the United Kingdom](https://maproulette.org/browse/challenges/28592) - COMPLETED
 
 
 ## Data Team
